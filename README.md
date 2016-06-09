@@ -9,6 +9,8 @@ Amber Yust ([ayust](https://github.com/ayust))
 
 Amitoj Kaur Chawla ([musicakc](https://github.com/musicakc))
 
+Amoli Shah ([AmoliShah](https://github.com/AmoliShah))
+
 Ana Balica ([ana-balica](https://github.com/ana-balica))
 
 Angie Byron ([webchick](https://github.com/webchick))
